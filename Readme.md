@@ -2,6 +2,8 @@
 
 This is a chat application developed using React and Express, which leverages the power of the OpenAI API to integrate an AI-powered chatbot into a web application. With this application, users can have interactive conversations with the ChatGPT model to obtain responses to their queries and engage in various conversational scenarios.
 
+> :warning: **NOTE:** This application is currently not working due to updates in the OpenAI API and is not being maintained. Due to these reasons the application may not work as intended.
+
 ## Skills Learned
 
 During the development of ChatGPT 2.0 using React and the OpenAI API, several skills were acquired and honed. These skills include:
